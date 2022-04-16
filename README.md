@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/AlisonVilela/AlisonVilela/main/wave.gif" width="30px">, I'm Alison Vilela
 </h1>
-<h3 align="center">A passionate serverless developer and Cyber Security Enthusiast</h3>
+<h3 align="center">A passionate Serverless developer and Cyber Security enthusiast!</h3>
 I'm a Full Stack Software Engineer based in Brazil, I have more than 12 years of experience in Software development, currently I am a Master's student in Computer Science with a Specialization in Cyber Security.
 
 ## 🚀 Languages and Tools
